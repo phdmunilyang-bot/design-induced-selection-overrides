@@ -1,0 +1,6 @@
+dataset,domain,N,features,base_rate_pct
+telco,non-credit,7043,45,26.54
+adult,non-credit,48842,107,23.93
+credit_risk,consumer credit,32581,26,21.82
+gmsc,consumer credit,150000,10,6.68
+taiwan,consumer credit,30000,23,22.12

@@ -1,0 +1,16 @@
+dataset,feature_set,ROC_AUC,PR_AUC
+telco,financial,0.8394,0.6527
+telco,financial+override,0.8403,0.6515
+telco,full(+pd),0.8366,0.6486
+adult,financial,0.929,0.8287
+adult,financial+override,0.9288,0.8285
+adult,full(+pd),0.928,0.827
+credit_risk,financial,0.9448,0.897
+credit_risk,financial+override,0.9447,0.8968
+credit_risk,full(+pd),0.9434,0.8949
+gmsc,financial,0.8651,0.4004
+gmsc,financial+override,0.8652,0.3998
+gmsc,full(+pd),0.8643,0.4008
+taiwan,financial,0.7817,0.5569
+taiwan,financial+override,0.7817,0.5563
+taiwan,full(+pd),0.7806,0.5551

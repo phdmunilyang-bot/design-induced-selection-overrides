@@ -1,0 +1,6 @@
+dataset,cov_emp,cov_pred
+telco,0.06714,0.06713
+adult,0.07389,0.07389
+credit_risk,0.06321,0.0632
+gmsc,0.01811,0.01811
+taiwan,0.03846,0.03846

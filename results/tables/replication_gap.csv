@@ -1,0 +1,16 @@
+dataset,dgm,gap_mean,gap_lo,gap_hi,excludes_0
+telco,naive,13.271,9.588,16.357,True
+telco,b1,-0.139,-2.938,2.685,False
+telco,b2,-4.612,-7.482,-2.031,True
+adult,naive,14.733,13.494,15.935,True
+adult,b1,0.003,-0.998,0.941,False
+adult,b2,4.862,3.839,6.03,True
+credit_risk,naive,12.748,11.243,14.23,True
+credit_risk,b1,0.037,-1.209,1.295,False
+credit_risk,b2,-5.037,-6.074,-3.93,True
+gmsc,naive,3.59,3.121,3.965,True
+gmsc,b1,-0.365,-0.701,0.003,False
+gmsc,b2,-0.684,-1.009,-0.363,True
+taiwan,naive,7.804,6.286,9.329,True
+taiwan,b1,0.074,-1.172,1.408,False
+taiwan,b2,-3.167,-4.428,-1.996,True

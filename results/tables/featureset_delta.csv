@@ -1,0 +1,6 @@
+dataset,financial,financial+override,full(+pd),delta_override
+adult,0.929,0.9288,0.928,-0.0002
+credit_risk,0.9448,0.9447,0.9434,-0.0001
+gmsc,0.8651,0.8652,0.8643,0.0001
+taiwan,0.7817,0.7817,0.7806,0.0
+telco,0.8394,0.8403,0.8366,0.0009

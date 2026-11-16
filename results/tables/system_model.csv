@@ -1,0 +1,6 @@
+dataset,domain,N,AUC,Gini,base_rate_pct
+telco,non-credit,7043,0.8443,0.6887,26.54
+adult,non-credit,48842,0.9059,0.8119,23.93
+credit_risk,consumer credit,32581,0.8706,0.7411,21.82
+gmsc,consumer credit,150000,0.7903,0.5806,6.68
+taiwan,consumer credit,30000,0.7233,0.4465,22.12

@@ -1,0 +1,16 @@
+dataset,dgm,OR_mean,OR_lo,OR_hi,excludes_1
+telco,naive,0.983,0.901,1.066,False
+telco,b1,0.979,0.894,1.073,False
+telco,b2,1.008,0.922,1.093,False
+adult,naive,0.987,0.951,1.026,False
+adult,b1,0.979,0.94,1.015,False
+adult,b2,0.96,0.926,0.997,True
+credit_risk,naive,0.998,0.959,1.041,False
+credit_risk,b1,0.976,0.928,1.019,False
+credit_risk,b2,0.995,0.949,1.039,False
+gmsc,naive,0.992,0.965,1.024,False
+gmsc,b1,1.004,0.972,1.034,False
+gmsc,b2,0.999,0.97,1.029,False
+taiwan,naive,0.998,0.959,1.037,False
+taiwan,b1,0.99,0.956,1.028,False
+taiwan,b2,0.987,0.951,1.026,False
